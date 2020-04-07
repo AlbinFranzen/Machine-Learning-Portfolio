@@ -7,7 +7,7 @@
 ------------------------------------------------------------------------------------------------------------------------------
 **Competitions results**
 
-**Already closed competitions**
+**Results from already closed competitions**
 
 I usually enter competitions which have already passed their deadlines to practice my ML workflow. Here are some results from what my submissions would have recieved had they been submitted in time:
 
