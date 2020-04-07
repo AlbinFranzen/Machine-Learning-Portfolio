@@ -30,8 +30,8 @@
 
 ## Books I have read
 
-1. [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurélien Géron
-2. [An Introduction to Statistical Learning](https://www.springer.com/gp/book/9781461471370) by Hastei, Tibshirani et al
+- [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurélien Géron
+- [An Introduction to Statistical Learning](https://www.springer.com/gp/book/9781461471370) by Hastei, Tibshirani et al
 
 ## Contact
 
