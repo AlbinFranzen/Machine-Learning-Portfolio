@@ -8,8 +8,13 @@
 **Competitions results**<br />
 I like to enter kaggle competitions to practice my current skills and learn about new bleeding-edge models and preprocessing techniques. The downside with kaggle is that the data is most often presented in clean datasets which is unrealistic compared to real-world data gathering and preparation. Therefore I only use kaggle as a supplement to my personal projects and to improve my modelling techniques. Here you can see some of my kaggle results:
 
+- Titanic
+- MNIST
+
 **Results from already closed competitions**<br />
 I occasionally enter competitions which have already passed their deadlines to practice my ML workflow. Here are some results from what my submissions would have recieved had they been submitted in time:
+
+- London
 
 ### Implementations of Machine Learning Algorithms from Scratch
 ------------------------------------------------------------------------------------------------------------------------------
