@@ -1,10 +1,10 @@
 # Albin Franzén - My journey in AI
 
-## Personal projects
+## Personal Projects
 
 ## Kaggle Competitions
 
-## Implementations of various Machine Learning Algorithms from Scratch
+## Implementations of Machine Learning Algorithms from Scratch
 
 **Statistical Learning** 
 - Linear Methods
