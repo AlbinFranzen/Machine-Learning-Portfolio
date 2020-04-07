@@ -9,13 +9,22 @@
 **Statistical Learning** 
 - Linear Methods
 - Support Vector Machines
-- Tree-Based Models
+- Kernel Smoothing 
+- Tree-Based Models and Ensemble Methods
 - Unsupervised Learning
-- Ensemble Methods
 - Model Assessment and Selection
 
 **Deep Learning Techniques**
+- Feed Forward Neural Networks
+- Convolutional Neural Networks
+- Natural Language Processing and Recurrent Neural Networks
+- Representation and Generative Learning
+- Reinforcement Learning
 
+**Other optimisation methods**
+- Genetic Algorithms
+- Dimensionality Reduction
+- Undirected Graphical Models
 
 
 ### Books I have read
