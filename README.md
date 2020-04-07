@@ -1,4 +1,10 @@
-### Books I have read
+## Personal projects
+
+## Kaggle Competitions
+
+## Implementations of various machine learning algorithms from scratch
+
+## Books I have read
 
 - [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurélien Géron
 - [An Introduction to Statistical Learning](https://www.springer.com/gp/book/9781461471370) by Hastei, Tibshirani et al
