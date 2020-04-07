@@ -44,5 +44,5 @@ I usually enter competitions which have already passed their deadlines to practi
 ### Contact
 ------------------------------------------------------------------------------------------------------------------------------
 
-If you liked what you saw and would like to contact me then you can write an email to albinfranzen@hotmail.com. 
+Feel free to contact me at albinfranzen@hotmail.com!
 
