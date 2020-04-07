@@ -1,5 +1,3 @@
-# Test
-
 ## Personal projects
 
 ## Kaggle Competitions
