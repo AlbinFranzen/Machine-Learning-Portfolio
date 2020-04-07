@@ -1,4 +1,4 @@
-## My machine learning career
+## My Machine Learning Career
 
 
 ### Read Books
