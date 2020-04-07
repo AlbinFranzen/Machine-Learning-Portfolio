@@ -4,7 +4,7 @@
 
 ## Kaggle Competitions
 
-## Implementations of various machine learning algorithms from scratch
+## Implementations of various Machine Learning Algorithms from Scratch
 
 **Statistical Learning** 
 - Linear Methods
