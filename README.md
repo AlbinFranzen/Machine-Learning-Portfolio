@@ -1,8 +1,22 @@
+# Albin Franzén - My journey in AI
+
 ### Personal projects
 
 ### Kaggle Competitions
 
 ### Implementations of various machine learning algorithms from scratch
+
+**Statistical Learning** 
+- Linear Methods
+- Support Vector Machines
+- Tree-Based Models
+- Unsupervised Learning
+- Ensemble Methods
+- Model Assessment and Selection
+
+**Deep Learning Techniques**
+
+
 
 ### Books I have read
 
