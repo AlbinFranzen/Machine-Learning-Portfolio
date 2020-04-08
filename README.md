@@ -21,6 +21,7 @@ I occasionally enter competitions which have already passed their deadlines to p
 
 **Statistical Learning** 
 - Linear Methods
+- Non-Linear Methods
 - Support Vector Machines
 - Kernel Smoothing 
 - Tree-Based Models and Ensemble Methods
