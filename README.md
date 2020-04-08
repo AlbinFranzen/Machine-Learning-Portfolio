@@ -34,7 +34,7 @@ I occasionally enter competitions which have already passed their deadlines to p
 - Representation and Generative Learning
 - Reinforcement Learning
 
-**Other optimisation methods**
+**Other Optimisation Methods**
 - Genetic Algorithms
 - Dimensionality Reduction
 - Undirected Graphical Models
