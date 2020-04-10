@@ -18,27 +18,30 @@ I occasionally enter competitions which have already passed their deadlines to p
 
 ### Implementations of Machine Learning Algorithms from Scratch
 ------------------------------------------------------------------------------------------------------------------------------
+**Supervised Learning**
+- Regression
+- Classification
 
-**Statistical Learning** 
-- Linear Methods
-- Non-Linear Methods
-- Support Vector Machines
-- Kernel Smoothing 
-- Tree-Based Models and Ensemble Methods
-- Unsupervised Learning
-- Model Assessment and Selection
+**Unsupervised Learning**
+- Clustering
+- Dimensionality Reduction
+- Association Rule Learning
 
-**Deep Learning Techniques**
+**Model Optimisation**
+- Model Assessment
+- Hyperparameter Tuning
+- Ensemble Methods
+
+**Deep Learning**
 - Feed Forward Neural Networks
 - Convolutional Neural Networks
 - Natural Language Processing and Recurrent Neural Networks
 - Representation and Generative Learning
-- Reinforcement Learning
 
-**Other Optimisation Methods**
+**Reinforcement Learning**
 - Genetic Algorithms
-- Dimensionality Reduction
-- Undirected Graphical Models
+- Markov Processes
+
 
 
 ### Books I have read
