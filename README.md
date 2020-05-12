@@ -3,7 +3,7 @@
 ### Personal Projects
 ------------------------------------------------------------------------------------------------------------------------------
 **Implementations of Machine Learning Algorithms from Scratch**<br />
-I have created a [repositoy](https://github.com/AlbinFranzen/ML-Algorithms-From-Scratch) where I have implemented various machine learning algorithms from scratch using only python and numpy. This repository demonstrates my theoretical knowledge in the subject and that I understand the underlying concepts behind the different algorithms in the field.
+I have created a [repository](https://github.com/AlbinFranzen/ML-Algorithms-From-Scratch) where I have implemented various machine learning algorithms from scratch using only python and numpy. This repository demonstrates my theoretical knowledge in the subject and that I understand the underlying concepts behind the different algorithms in the field.
 
 
 
