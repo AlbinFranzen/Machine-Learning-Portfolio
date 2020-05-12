@@ -2,6 +2,12 @@
 
 ### Personal Projects
 ------------------------------------------------------------------------------------------------------------------------------
+I have completed various personal projects to improve my machine learning capabilities. Here I have listed a few showcasing my knowledge:
+
+**Implementations of Machine Learning Algorithms from Scratch**<br />
+I have created a [repositoy](https://github.com/AlbinFranzen/ML-Algorithms-From-Scratch) where I have implemented various machine learning algorithms from scratch using only python and numpy. This repository demonstrates my theoretical knowledge in the subject and that I understand the underlying concepts behind the different algorithms in the field.
+
+
 
 ### Kaggle Competitions
 ------------------------------------------------------------------------------------------------------------------------------
@@ -15,34 +21,6 @@ I like to enter kaggle competitions to practice my current skills and learn abou
 I occasionally enter competitions which have already passed their deadlines to practice my ML workflow. Here are some results from what my submissions would have recieved had they been submitted in time:
 
 - London
-
-### Implementations of Machine Learning Algorithms from Scratch
-------------------------------------------------------------------------------------------------------------------------------
-**Supervised Learning**
-- Regression
-- Classification
-
-**Unsupervised Learning**
-- Clustering
-- Dimensionality Reduction
-- Association Rule Learning
-
-**Model Optimisation**
-- Model Assessment
-- Hyperparameter Tuning
-- Ensemble Methods
-
-**Deep Learning**
-- Feed Forward Neural Networks
-- Convolutional Neural Networks
-- Natural Language Processing and Recurrent Neural Networks
-- Representation and Generative Learning
-
-**Reinforcement Learning**
-- Genetic Algorithms
-- Markov Processes
-
-
 
 ### Books I have read
 ------------------------------------------------------------------------------------------------------------------------------
