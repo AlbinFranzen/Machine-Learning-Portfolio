@@ -10,7 +10,7 @@ I have created a [repository](https://github.com/AlbinFranzen/ML-Algorithms-From
 ### Kaggle Competitions
 ------------------------------------------------------------------------------------------------------------------------------
 **Competition results**<br />
-I like to enter kaggle competitions to practice my current skills and learn about new bleeding-edge models and preprocessing techniques. The downside with kaggle is that the data is most often presented in clean datasets which is unrealistic compared to real-world data gathering and preparation. Therefore I only use kaggle as a supplement to my personal projects and to improve my modelling techniques. Here you can see some of my kaggle results:
+I enter kaggle competitions to practice my current skills and learn about new bleeding-edge models and preprocessing techniques. The downside with kaggle is that the data is most often presented in clean datasets which is unrealistic compared to real-world data gathering and preparation. Therefore I only use kaggle as a supplement to my personal projects and to improve my modelling techniques. Here you can see some of my kaggle results:
 
 - Titanic
 - MNIST
