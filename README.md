@@ -16,7 +16,7 @@ I enter kaggle competitions to practice my current skills and learn about new bl
 - MNIST
 
 **Results from already closed competitions**<br />
-I occasionally enter competitions which have already passed their deadlines to practice my ML workflow. Here are some results from what my submissions would have recieved had they been submitted in time:
+I occasionally enter competitions which have already passed their deadlines to practice my machine learning workflow. Here are some results from what my submissions would have recieved had they been submitted in time:
 
 - foo
 
