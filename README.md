@@ -29,5 +29,7 @@ I occasionally enter competitions which have already passed their deadlines to p
 ### Contact
 ------------------------------------------------------------------------------------------------------------------------------
 
-Feel free to contact me at albinfranzen@hotmail.com or +46705254819
+Feel free to contact me at: 
+albinfranzen@hotmail.com 
++46705254819
 
