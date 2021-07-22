@@ -30,6 +30,7 @@ I occasionally enter competitions which have already passed their deadlines to p
 ------------------------------------------------------------------------------------------------------------------------------
 
 Feel free to contact me at: 
-albinfranzen@hotmail.com 
+
+albinfranzen@hotmail.com
 +46705254819
 
