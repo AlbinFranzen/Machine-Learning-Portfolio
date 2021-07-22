@@ -29,5 +29,5 @@ I occasionally enter competitions which have already passed their deadlines to p
 ### Contact
 ------------------------------------------------------------------------------------------------------------------------------
 
-Feel free to contact me at albinfranzen@hotmail.com!
+Feel free to contact me at albinfranzen@hotmail.com
 
